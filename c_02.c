@@ -9,12 +9,12 @@ int main ()
     char sexo ;
 
     idade = 32 ;
-    salario 4560.9 ;
+    salario = 4560.9 ;
     strcpy(nome, "Maria Silva");
     sexo = 'F';
 
 
-    printf("A funcionária %s,sexo %c, ganha &.2lf , e tem %d anos",nome , sexo , salario , idade);
+    printf("A funcionï¿½ria %s,sexo %c, ganha &.2lf , e tem %d anos",nome , sexo , salario , idade);
 
     return 0;
 }
