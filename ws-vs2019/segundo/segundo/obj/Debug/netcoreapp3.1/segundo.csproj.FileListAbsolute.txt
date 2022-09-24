@@ -1,0 +1,14 @@
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.exe
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.deps.json
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.runtimeconfig.json
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.runtimeconfig.dev.json
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.dll
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\bin\Debug\netcoreapp3.1\segundo.pdb
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.csproj.AssemblyReference.cache
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.AssemblyInfoInputs.cache
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.AssemblyInfo.cs
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.csproj.CoreCompileInputs.cache
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.dll
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.pdb
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\segundo\segundo\obj\Debug\netcoreapp3.1\segundo.genruntimeconfig.cache

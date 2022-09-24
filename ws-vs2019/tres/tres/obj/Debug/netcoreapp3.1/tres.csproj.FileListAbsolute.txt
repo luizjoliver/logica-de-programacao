@@ -1,0 +1,14 @@
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\bin\Debug\netcoreapp3.1\tres.exe
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\bin\Debug\netcoreapp3.1\tres.deps.json
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\bin\Debug\netcoreapp3.1\tres.runtimeconfig.json
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\bin\Debug\netcoreapp3.1\tres.runtimeconfig.dev.json
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\bin\Debug\netcoreapp3.1\tres.dll
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\bin\Debug\netcoreapp3.1\tres.pdb
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\obj\Debug\netcoreapp3.1\tres.csproj.AssemblyReference.cache
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\obj\Debug\netcoreapp3.1\tres.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\obj\Debug\netcoreapp3.1\tres.AssemblyInfoInputs.cache
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\obj\Debug\netcoreapp3.1\tres.AssemblyInfo.cs
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\obj\Debug\netcoreapp3.1\tres.csproj.CoreCompileInputs.cache
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\obj\Debug\netcoreapp3.1\tres.dll
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\obj\Debug\netcoreapp3.1\tres.pdb
+C:\Users\obito\OneDrive\Documentos\estudos\logica_de_pogramacao\ws-vs2019\tres\tres\obj\Debug\netcoreapp3.1\tres.genruntimeconfig.cache
